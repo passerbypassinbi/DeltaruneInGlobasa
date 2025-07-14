@@ -24,4 +24,6 @@ To Do:
 
 - [ ] Make prettier README
 
-- [ ] Figure out proper way to package changes into one easy-to-use package
+- [ ] Figure out proper way to package changes into one easy-to-use package (Perhaps using [existing work?](https://github.com/gm3dr/DeltaruneChinesePatcher))
+
+- [ ] Figure out if it's possible to cleanly extract something similar to lang_en.json from Chapters 2-4, because [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) doesn't seem to offer the most... elegant solution...
